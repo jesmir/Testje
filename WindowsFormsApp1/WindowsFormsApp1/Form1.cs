@@ -284,7 +284,6 @@ namespace WindowsFormsApp1
         private double TelOp(double a, double b)
         {
             return a + b;
-            //Math.fac
         }
 
         private double TrekAf(double a, double b)
